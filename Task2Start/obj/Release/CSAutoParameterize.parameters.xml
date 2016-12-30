@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="HebbraCo16Model-Web.config Connection String" description="HebbraCo16Model Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:u0000770.database.windows.net,1433;Initial Catalog=HebbraCo;Persist Security Info=False;User ID=u0000770;Password=Tel@503141;MultipleActiveResultSets=True;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\u0000770\\Desktop\\cws2017\\final\\CWS2015Solution\\Task2Start\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='HebbraCo16Model']/@connectionString" />
+  </parameter>
+</parameters>

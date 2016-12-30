@@ -1,0 +1,78 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HebbraCoDbfModel", "HebbraCoDbfModel\HebbraCoDbfModel.csproj", "{3A6CE8B6-5760-4F49-8976-EC45E5998612}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{9065F954-94D9-4F77-96C2-B902611E0E17}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2Start", "Task2Start\Task2Start.csproj", "{A2811548-F4F9-4D7C-90B5-8DD2BFBCBD23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1Start", "Task1Start\Task1Start.csproj", "{DA82CDC6-12F8-4C2A-B013-AB216BDD895C}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Task3(1)", "Task3\", "{2D0BF5FE-E702-4A68-9A3B-DC05342622CE}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_54860"
+		Debug.AspNetCompiler.PhysicalPath = "Task3\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54860\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_54860"
+		Release.AspNetCompiler.PhysicalPath = "Task3\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54860\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54860"
+		SlnRelativePath = "Task3\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4Start", "Task4Start\Task4Start.csproj", "{ACCB069A-9D23-4F43-B704-21D45927AF4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaffSkillsModel", "StaffSkillsModel\StaffSkillsModel.csproj", "{9EA4387C-240A-4360-9E97-7CEDE146D0ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A6CE8B6-5760-4F49-8976-EC45E5998612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6CE8B6-5760-4F49-8976-EC45E5998612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6CE8B6-5760-4F49-8976-EC45E5998612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6CE8B6-5760-4F49-8976-EC45E5998612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2811548-F4F9-4D7C-90B5-8DD2BFBCBD23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2811548-F4F9-4D7C-90B5-8DD2BFBCBD23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2811548-F4F9-4D7C-90B5-8DD2BFBCBD23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2811548-F4F9-4D7C-90B5-8DD2BFBCBD23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA82CDC6-12F8-4C2A-B013-AB216BDD895C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA82CDC6-12F8-4C2A-B013-AB216BDD895C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA82CDC6-12F8-4C2A-B013-AB216BDD895C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA82CDC6-12F8-4C2A-B013-AB216BDD895C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D0BF5FE-E702-4A68-9A3B-DC05342622CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D0BF5FE-E702-4A68-9A3B-DC05342622CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D0BF5FE-E702-4A68-9A3B-DC05342622CE}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D0BF5FE-E702-4A68-9A3B-DC05342622CE}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{ACCB069A-9D23-4F43-B704-21D45927AF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACCB069A-9D23-4F43-B704-21D45927AF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACCB069A-9D23-4F43-B704-21D45927AF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACCB069A-9D23-4F43-B704-21D45927AF4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EA4387C-240A-4360-9E97-7CEDE146D0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA4387C-240A-4360-9E97-7CEDE146D0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA4387C-240A-4360-9E97-7CEDE146D0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA4387C-240A-4360-9E97-7CEDE146D0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

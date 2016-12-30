@@ -1,0 +1,10 @@
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\StaffSkillsModel\bin\Debug\StaffSkillsModel.dll.config
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\StaffSkillsModel\bin\Debug\StaffSkillsModel.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\StaffSkillsModel\bin\Debug\StaffSkillsModel.pdb
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\StaffSkillsModel\bin\Debug\EntityFramework.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\StaffSkillsModel\bin\Debug\EntityFramework.SqlServer.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\StaffSkillsModel\bin\Debug\EntityFramework.xml
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\StaffSkillsModel\bin\Debug\EntityFramework.SqlServer.xml
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\StaffSkillsModel\obj\Debug\StaffSkillsModel.csprojResolveAssemblyReference.cache
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\StaffSkillsModel\obj\Debug\StaffSkillsModel.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\StaffSkillsModel\obj\Debug\StaffSkillsModel.pdb

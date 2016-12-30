@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task2Start\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task2Start\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task2Start\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

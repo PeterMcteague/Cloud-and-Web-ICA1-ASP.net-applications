@@ -1,0 +1,460 @@
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\roslyn\csc.exe
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\roslyn\vbc.exe
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\roslyn\VBCSCompiler.exe
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\Task1Start.dll.config
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\Task1Start.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\Task1Start.pdb
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\Antlr3.Runtime.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\EntityFramework.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\EntityFramework.SqlServer.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\HebbraCoDbfModel.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\Newtonsoft.Json.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.Helpers.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.Mvc.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.Optimization.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.Razor.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.WebPages.Deployment.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.WebPages.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.WebPages.Razor.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\WebGrease.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\HebbraCoDbfModel.pdb
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\EntityFramework.xml
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\EntityFramework.SqlServer.xml
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.Helpers.xml
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.Mvc.xml
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.Optimization.xml
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.Razor.xml
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.WebPages.xml
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.WebPages.Deployment.xml
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\System.Web.WebPages.Razor.xml
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\Antlr3.Runtime.pdb
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\bin\Newtonsoft.Json.xml
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\obj\Debug\Task1Start.csprojResolveAssemblyReference.cache
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\obj\Debug\Task1Start.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\Task1Start\obj\Debug\Task1Start.pdb
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\roslyn\csc.exe
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\roslyn\vbc.exe
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\roslyn\VBCSCompiler.exe
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\Task1Start.dll.config
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\Task1Start.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\Task1Start.pdb
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\Antlr3.Runtime.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\EntityFramework.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\EntityFramework.SqlServer.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\HebbraCoDbfModel.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\Newtonsoft.Json.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.Helpers.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.Mvc.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.Optimization.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.Razor.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.WebPages.Deployment.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.WebPages.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.WebPages.Razor.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\WebGrease.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\HebbraCoDbfModel.pdb
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\EntityFramework.xml
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\EntityFramework.SqlServer.xml
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.Helpers.xml
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.Mvc.xml
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.Optimization.xml
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.Razor.xml
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.WebPages.xml
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.WebPages.Deployment.xml
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\System.Web.WebPages.Razor.xml
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\Antlr3.Runtime.pdb
+C:\Users\u0000770\Desktop\ICA\Task1Start\bin\Newtonsoft.Json.xml
+C:\Users\u0000770\Desktop\ICA\Task1Start\obj\Debug\Task1Start.csprojResolveAssemblyReference.cache
+C:\Users\u0000770\Desktop\ICA\Task1Start\obj\Debug\Task1Start.dll
+C:\Users\u0000770\Desktop\ICA\Task1Start\obj\Debug\Task1Start.pdb
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\csc.exe
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.dll
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.CSharp.Core.targets
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.VisualBasic.Core.targets
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\System.Collections.Immutable.dll
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\System.Reflection.Metadata.dll
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\vbc.exe
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\VBCSCompiler.exe
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\VBCSCompiler.exe.config
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Task1Start.dll.config
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Task1Start.dll
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Task1Start.pdb
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Antlr3.Runtime.dll
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\EntityFramework.dll
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\EntityFramework.SqlServer.dll
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\HebbraCoDbfModel.dll
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Microsoft.Web.Infrastructure.dll
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Newtonsoft.Json.dll
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.Helpers.dll
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.Mvc.dll
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.Optimization.dll
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.Razor.dll
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.Deployment.dll
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.dll
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.Razor.dll
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\WebGrease.dll
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\HebbraCoDbfModel.pdb
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\EntityFramework.xml
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\EntityFramework.SqlServer.xml
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.Helpers.xml
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.Mvc.xml
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.Optimization.xml
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.Razor.xml
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.xml
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.Deployment.xml
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.Razor.xml
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Antlr3.Runtime.pdb
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Newtonsoft.Json.xml
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\obj\Debug\Task1Start.csprojResolveAssemblyReference.cache
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\obj\Debug\Task1Start.dll
+U:\Year 2\Cloud and web services\ICA Starter Solution\Task1Start\obj\Debug\Task1Start.pdb
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\roslyn\csc.exe
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\roslyn\vbc.exe
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\roslyn\VBCSCompiler.exe
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\Task1Start.dll.config
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\Task1Start.dll
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\Task1Start.pdb
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\Antlr3.Runtime.dll
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\EntityFramework.dll
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\EntityFramework.SqlServer.dll
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\HebbraCoDbfModel.dll
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\Newtonsoft.Json.dll
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\System.Web.Helpers.dll
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\System.Web.Mvc.dll
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\System.Web.Optimization.dll
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\System.Web.Razor.dll
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\System.Web.WebPages.Deployment.dll
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\System.Web.WebPages.dll
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\System.Web.WebPages.Razor.dll
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\WebGrease.dll
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\HebbraCoDbfModel.pdb
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\EntityFramework.xml
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\EntityFramework.SqlServer.xml
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\System.Web.Helpers.xml
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\System.Web.Mvc.xml
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\System.Web.Optimization.xml
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\System.Web.Razor.xml
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\System.Web.WebPages.xml
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\System.Web.WebPages.Deployment.xml
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\System.Web.WebPages.Razor.xml
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\Antlr3.Runtime.pdb
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\bin\Newtonsoft.Json.xml
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\obj\Debug\Task1Start.dll
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\obj\Debug\Task1Start.pdb
+C:\Users\p4029206\Desktop\ICA Starter\Task1Start\obj\Debug\Task1Start.csprojResolveAssemblyReference.cache
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\roslyn\csc.exe
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\roslyn\vbc.exe
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\roslyn\VBCSCompiler.exe
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\Task1Start.dll.config
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\Task1Start.dll
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\Task1Start.pdb
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\Antlr3.Runtime.dll
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\EntityFramework.dll
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\EntityFramework.SqlServer.dll
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\HebbraCoDbfModel.dll
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\Newtonsoft.Json.dll
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.Helpers.dll
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.Mvc.dll
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.Optimization.dll
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.Razor.dll
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.Deployment.dll
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.dll
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.Razor.dll
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\WebGrease.dll
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\HebbraCoDbfModel.pdb
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\EntityFramework.xml
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\EntityFramework.SqlServer.xml
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.Helpers.xml
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.Mvc.xml
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.Optimization.xml
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.Razor.xml
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.xml
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.Deployment.xml
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.Razor.xml
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\Antlr3.Runtime.pdb
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\bin\Newtonsoft.Json.xml
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\obj\Debug\Task1Start.csprojResolveAssemblyReference.cache
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\obj\Debug\Task1Start.dll
+C:\Users\07mct\Desktop\ICA Starter Solution\Task1Start\obj\Debug\Task1Start.pdb
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\obj\Debug\Task1Start.csprojResolveAssemblyReference.cache
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\obj\Debug\Task1Start.dll
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\obj\Debug\Task1Start.pdb
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\roslyn\csc.exe
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\roslyn\vbc.exe
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\roslyn\VBCSCompiler.exe
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\Task1Start.dll.config
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\Task1Start.dll
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\Task1Start.pdb
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\Antlr3.Runtime.dll
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\EntityFramework.dll
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\EntityFramework.SqlServer.dll
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\HebbraCoDbfModel.dll
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\Newtonsoft.Json.dll
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.Helpers.dll
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.Mvc.dll
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.Optimization.dll
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.Razor.dll
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.Deployment.dll
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.dll
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.Razor.dll
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\WebGrease.dll
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\HebbraCoDbfModel.pdb
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\EntityFramework.xml
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\EntityFramework.SqlServer.xml
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.Helpers.xml
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.Mvc.xml
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.Optimization.xml
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.Razor.xml
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.xml
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.Deployment.xml
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.Razor.xml
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\Antlr3.Runtime.pdb
+C:\Users\p4029206\Desktop\ICA Starter Solution\Task1Start\bin\Newtonsoft.Json.xml
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\csc.exe
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\System.Collections.Immutable.dll
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\System.Reflection.Metadata.dll
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\vbc.exe
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\VBCSCompiler.exe
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\VBCSCompiler.exe.config
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Task1Start.dll.config
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Task1Start.dll
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Task1Start.pdb
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Antlr3.Runtime.dll
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\EntityFramework.dll
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\EntityFramework.SqlServer.dll
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\HebbraCoDbfModel.dll
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Microsoft.Web.Infrastructure.dll
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Newtonsoft.Json.dll
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.Helpers.dll
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.Mvc.dll
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.Optimization.dll
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.Razor.dll
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.Deployment.dll
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.dll
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.Razor.dll
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\WebGrease.dll
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\HebbraCoDbfModel.pdb
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\EntityFramework.xml
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\EntityFramework.SqlServer.xml
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.Helpers.xml
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.Mvc.xml
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.Optimization.xml
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.Razor.xml
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.xml
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.Deployment.xml
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.Razor.xml
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Antlr3.Runtime.pdb
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Newtonsoft.Json.xml
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\obj\Debug\Task1Start.csprojResolveAssemblyReference.cache
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\obj\Debug\Task1Start.dll
+J:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\obj\Debug\Task1Start.pdb
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\csc.exe
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\System.Collections.Immutable.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\System.Reflection.Metadata.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\vbc.exe
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\VBCSCompiler.exe
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\roslyn\VBCSCompiler.exe.config
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Task1Start.dll.config
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Task1Start.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Task1Start.pdb
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Antlr3.Runtime.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\EntityFramework.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\EntityFramework.SqlServer.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\HebbraCoDbfModel.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Microsoft.Web.Infrastructure.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Newtonsoft.Json.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.Helpers.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.Mvc.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.Optimization.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.Razor.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.Deployment.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.Razor.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\WebGrease.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\HebbraCoDbfModel.pdb
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\EntityFramework.xml
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\EntityFramework.SqlServer.xml
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.Helpers.xml
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.Mvc.xml
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.Optimization.xml
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.Razor.xml
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.xml
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.Deployment.xml
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\System.Web.WebPages.Razor.xml
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Antlr3.Runtime.pdb
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\bin\Newtonsoft.Json.xml
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\obj\Debug\Task1Start.csprojResolveAssemblyReference.cache
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\obj\Debug\Task1Start.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution\Task1Start\obj\Debug\Task1Start.pdb
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\roslyn\csc.exe
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\roslyn\System.Collections.Immutable.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\roslyn\System.Reflection.Metadata.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\roslyn\vbc.exe
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\roslyn\VBCSCompiler.exe
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\roslyn\VBCSCompiler.exe.config
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\Task1Start.dll.config
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\Task1Start.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\Task1Start.pdb
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\Antlr3.Runtime.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\EntityFramework.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\EntityFramework.SqlServer.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\HebbraCoDbfModel.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\Microsoft.Web.Infrastructure.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\Newtonsoft.Json.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.Helpers.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.Mvc.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.Optimization.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.Razor.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.WebPages.Deployment.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.WebPages.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.WebPages.Razor.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\WebGrease.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\HebbraCoDbfModel.pdb
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\EntityFramework.xml
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\EntityFramework.SqlServer.xml
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.Helpers.xml
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.Mvc.xml
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.Optimization.xml
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.Razor.xml
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.WebPages.xml
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.WebPages.Deployment.xml
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.WebPages.Razor.xml
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\Antlr3.Runtime.pdb
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\Newtonsoft.Json.xml
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\obj\Debug\Task1Start.csprojResolveAssemblyReference.cache
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\obj\Debug\Task1Start.dll
+G:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\obj\Debug\Task1Start.pdb
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\roslyn\csc.exe
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\roslyn\vbc.exe
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\roslyn\VBCSCompiler.exe
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\Task1Start.dll.config
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\Task1Start.dll
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\Task1Start.pdb
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\Antlr3.Runtime.dll
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\EntityFramework.dll
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\EntityFramework.SqlServer.dll
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\HebbraCoDbfModel.dll
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\Newtonsoft.Json.dll
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.Helpers.dll
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.Mvc.dll
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.Optimization.dll
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.Razor.dll
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.WebPages.Deployment.dll
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.WebPages.dll
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.WebPages.Razor.dll
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\WebGrease.dll
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\HebbraCoDbfModel.pdb
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\EntityFramework.xml
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\EntityFramework.SqlServer.xml
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.Helpers.xml
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.Mvc.xml
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.Optimization.xml
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.Razor.xml
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.WebPages.xml
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.WebPages.Deployment.xml
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\System.Web.WebPages.Razor.xml
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\Antlr3.Runtime.pdb
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\bin\Newtonsoft.Json.xml
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\obj\Debug\Task1Start.csprojResolveAssemblyReference.cache
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\obj\Debug\Task1Start.dll
+D:\Work\Y2\Cloud and web services\ICA Starter Solution Start\Task1Start\obj\Debug\Task1Start.pdb

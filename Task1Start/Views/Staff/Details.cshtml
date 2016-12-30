@@ -1,0 +1,102 @@
+﻿@model Task1Start.Models.StaffDetailVM
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details for @Model.fullName</h2>
+
+<div>
+    <h4>Staff</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+        </dt>
+
+        <dd>
+            @if (@Url.Content(Model.PhotoUrl) != null)
+            {
+                <img class="img-responsive" src="~/images/@Url.Content(Model.PhotoUrl)" style="height: 300px; width: 300px;" />
+            }
+        </dd>
+        
+        <dt>
+            @Html.DisplayNameFor(model => model.staffCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.staffCode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BusinessUnitID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BusinessUnitID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.firstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.firstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.middleName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.middleName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.lastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.lastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dob)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dob)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.startDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.startDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.profile)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.profile)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.emailAddress)
+        </dt>
+
+        <dd>
+            <a href= '@string.Format("mailto:{0}", Model.emailAddress)'>@Html.DisplayFor(model => model.emailAddress)</a>
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.staffCode }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+

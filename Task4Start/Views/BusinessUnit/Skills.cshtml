@@ -1,0 +1,32 @@
+﻿@model Task4Start.Models.BusinessUnitSkillVM
+
+@{
+    ViewBag.Title = "Skills";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Skills for @Html.DisplayFor(m => m.title)</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayName("Code")
+        </th>
+        <th>
+            @Html.DisplayName("Description")
+        </th>
+    </tr>
+
+    @foreach (var item in @Model.skills)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.skillCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.skillDescription)
+            </td>
+        </tr>
+    }
+
+</table>

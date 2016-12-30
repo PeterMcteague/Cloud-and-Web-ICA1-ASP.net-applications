@@ -1,0 +1,36 @@
+﻿@model Task4Start.Models.StaffSkillVM
+
+@{
+    ViewBag.Title = "Skills";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Skills for @Html.DisplayFor(m => m.staffCode) @Html.DisplayFor(m => m.fullName)</h2>
+
+
+<p>
+    @Html.ActionLink("Add New Skill", "AddSkill", "Staff" , new {staffCode = Model.staffCode}, null)
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayName("Code")
+        </th>
+        <th>
+            @Html.DisplayName("Description")
+        </th>
+    </tr>
+
+    @foreach (var item in @Model.skills)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.skillCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.skillDescription)
+            </td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,10 @@
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\HebbraCoDbfModel\bin\Release\HebbraCoDbfModel.dll.config
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\HebbraCoDbfModel\bin\Release\HebbraCoDbfModel.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\HebbraCoDbfModel\bin\Release\HebbraCoDbfModel.pdb
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\HebbraCoDbfModel\bin\Release\EntityFramework.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\HebbraCoDbfModel\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\HebbraCoDbfModel\bin\Release\EntityFramework.xml
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\HebbraCoDbfModel\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\HebbraCoDbfModel\obj\Release\HebbraCoDbfModel.csprojResolveAssemblyReference.cache
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\HebbraCoDbfModel\obj\Release\HebbraCoDbfModel.dll
+C:\Users\u0000770\Desktop\cws2017\final\CWS2015Solution\HebbraCoDbfModel\obj\Release\HebbraCoDbfModel.pdb

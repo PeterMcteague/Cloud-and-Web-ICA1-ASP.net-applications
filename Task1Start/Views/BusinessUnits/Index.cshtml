@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Task1Start.Models.BusinessUnitVM>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>List of Business Units</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.businessUnitCode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.title)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.businessUnitCode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.title)
+        </td>
+        <td>
+            @Html.ActionLink("View Staff", "Index", "Staff", new { id = item.businessUnitCode }, null) |
+            @Html.ActionLink("Edit", "Edit", new { id=item.businessUnitCode }) |
+            @Html.ActionLink("Details", "Details", new { id=item.businessUnitCode }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.businessUnitCode })
+        </td>
+    </tr>
+}
+
+</table>

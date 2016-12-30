@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Task4Start.Models.BusinessUnitDTO>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Business Units</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.businessUnitCode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.title)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.businessUnitCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.title)
+            </td>
+            <td>
+                @Html.ActionLink("View Staff", "Index", "Staff", new { id = item.businessUnitCode }, null) ||
+                @Html.ActionLink("View Skills", "Skills", "BusinessUnit", new { id = item.businessUnitCode }, null)
+            </td>
+        </tr>
+    }
+
+</table>

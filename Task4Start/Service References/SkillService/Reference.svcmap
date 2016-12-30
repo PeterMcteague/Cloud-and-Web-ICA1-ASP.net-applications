@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="8edb574b-0cd6-4156-9818-10cfe2bb1b72" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://azurewcfskillservice.cloudapp.net/SkillService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="SkillService.xsd" MetadataType="Schema" ID="3b68e161-fdeb-46e9-8cca-b679b592195c" SourceId="1" SourceUrl="http://azurewcfskillservice.cloudapp.net/SkillService.svc?xsd=xsd2" />
+    <MetadataFile FileName="SkillService1.xsd" MetadataType="Schema" ID="ef832233-384a-4b1e-a688-d5685e91280d" SourceId="1" SourceUrl="http://azurewcfskillservice.cloudapp.net/SkillService.svc?xsd=xsd1" />
+    <MetadataFile FileName="SkillService.disco" MetadataType="Disco" ID="221d126a-bcf5-4443-9af1-3fc0fdcb551e" SourceId="1" SourceUrl="http://azurewcfskillservice.cloudapp.net/SkillService.svc?disco" />
+    <MetadataFile FileName="SkillService2.xsd" MetadataType="Schema" ID="7fce1635-65d4-40fe-8b8d-4f6e0f8dda2c" SourceId="1" SourceUrl="http://azurewcfskillservice.cloudapp.net/SkillService.svc?xsd=xsd0" />
+    <MetadataFile FileName="SkillService.wsdl" MetadataType="Wsdl" ID="74c7056a-21c5-4308-a762-c67d95c98b2a" SourceId="1" SourceUrl="http://azurewcfskillservice.cloudapp.net/SkillService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
